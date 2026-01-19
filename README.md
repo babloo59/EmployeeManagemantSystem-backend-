@@ -8,10 +8,7 @@ It provides secure **REST APIs** with **JWT authentication**, **role-based autho
 ## 🔗 Frontend Repository
 
 👉 **Frontend (React.js)**  
-🔗 https://github.com/your-username/employee-management-system-frontend
-
-> ⚠️ Replace the above link with your actual frontend GitHub repository URL.
-
+🔗 https://github.com/babloo59/EmployeeManagemantSystem-frontend-
 ---
 
 ## 🚀 Features
